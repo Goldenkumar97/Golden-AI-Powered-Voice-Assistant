@@ -142,7 +142,7 @@ Fetches the latest news headlines using **NewsAPI**.
 | `Country` | `string` | Country code (e.g. in, us) |
 | `api_key` | `string` | Required. Your NewsAPI key |
 
-### Get 🔹AI Response (Groq LLaMA)
+### 🔹Get AI Response (Groq LLaMA)
 
 Generates intelligent responses for general user queries using Groq LLaMA.
 
