@@ -160,3 +160,13 @@ Generates intelligent responses for general user queries using Groq LLaMA.
 
 
 https://github.com/Goldenkumar97/Golden-AI-Powered-Voice-Assistant/blob/main/Screenshot%202025-12-08%20151945.png
+
+---
+## Project Demo Video
+
+Watch the complete demo of the project on LinkedIn:
+
+https://www.linkedin.com/posts/golden-kumar-622115268_python-artificialintelligence-voiceassistant-activity-7417271012032983040-iFH4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEGDQjoB8UCwzRKCtxYIPuDCjxE2v9UbQOE
+
+
+---
