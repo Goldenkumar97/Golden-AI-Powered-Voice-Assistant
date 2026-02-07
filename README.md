@@ -1,4 +1,4 @@
-# 🔊 Golden AI Powered Voice Assistant
+#  AI Powered Voice Assistant
 
 Golden AI Powered Voice Assistant is a Python-based project that enables hands-free control of a computer using voice commands.  
 The assistant can open applications and websites, play music, tell the time, read news, and answer general queries using the **Groq LLaMA AI model**.
